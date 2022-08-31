@@ -1,4 +1,2 @@
 # digitalskola_batch7
-greetings from github desktop
-greetings from gitbash
-
+Hasil pembelajaran pada kelas Data Engineer digitalskola batch 7
